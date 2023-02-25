@@ -143,7 +143,7 @@ This section contains the appointments that you have (if you are doctor) or if y
 **Instant UPI** This option helps doctor to generate the UPI QR Code for taking fees from the patient Later Doctor can share this QR Code to patient for making the payment
 
 
-0
+
 
 
 **Upload Prescription** This option is designed for the doctors to upload their prescription to the patients as a PDF file
